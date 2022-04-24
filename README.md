@@ -18,11 +18,26 @@
   </p>
 
 ## 👨‍💻 팀원
-이유제
-박하람
-조수연
+<table>
+<tr height="200px">
+        <td align="center" width="200px">
+            <a href="https://github.com/dbwp031"><img height="150px" width="150px" src="https://avatars.githubusercontent.com/u/65337423?v=4"/></a>
+            <br />
+            <a href="https://github.com/dbwp031">이유제</a>
+        </td>
+        <td align="center" width="200px">
+            <a href="https://github.com/haram1117"><img height="150px" width="150px" src="https://avatars.githubusercontent.com/u/63827499?v=4"/></a>
+            <br />
+            <a href="https://github.com/haram1117">박하람</a>
+        </td>
+        <td align="center" width="200px">
+            <a href="https://github.com/josushell"><img height="150px" width="150px" src="https://avatars.githubusercontent.com/u/63590121?v=4"/></a>
+            <br />
+            <a href="https://github.com/josushell">조수연</a>
+        </td>
+    </tr>
+  </table>
 
-이거 나중에 프로필 연동해서 꾸며둘게
 
 ## 🔐 문제
 * [백준](https://www.acmicpc.net/)
