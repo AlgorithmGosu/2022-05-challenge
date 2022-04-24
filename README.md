@@ -1,14 +1,6 @@
 # 2022-05-challenge
 5월 목표는 백준 골드다. 실패 시 벌금 5만원
 
-> Language : undefined
-
-```c
-while (!unresolved_algorithm.empty()) {
-  keep_hard();
-}
-```
-
 ## ✏️ 규칙
 1. 이유제 python
 2. 박하람 조수연 c++
