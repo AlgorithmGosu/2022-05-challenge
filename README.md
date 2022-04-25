@@ -14,6 +14,10 @@
   <img src="https://user-images.githubusercontent.com/63590121/164978982-262a27bb-0b80-4a60-acb6-e877da1743fb.PNG" width="400" height="900">
   </p>
 
+## 💻 참고하면 좋을 repo
+https://github.com/tony9402/baekjoon<br>
+https://github.com/ndb796/python-for-coding-test
+
 ## 👨‍💻 팀원
 <table>
 <tr height="200px">
