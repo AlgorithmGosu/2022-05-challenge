@@ -22,7 +22,7 @@ int main()
         }
         result = max(result, value);
     }
-    cout<<result;
+    cout<<result<<endl;
 
     return 0;
 }
