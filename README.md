@@ -35,6 +35,8 @@ https://github.com/ndb796/python-for-coding-test
             <a href="https://github.com/josushell"><img height="150px" width="150px" src="https://avatars.githubusercontent.com/u/63590121?v=4"/></a>
             <br />
             <a href="https://github.com/josushell">조수연</a>
+			<br />
+           <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yoy07030" />
         </td>
     </tr>
   </table>
