@@ -18,7 +18,7 @@ def solution(board):
                     turned.append([[lx,ly+i],[lx,ly]])
                     turned.append([[rx,ry+i],[rx,ry]])
         return turned
-
+    moved = []
     n = len(board)
     que = deque([[[0,0],[0,1],0]])
     answer = -1
@@ -27,19 +27,21 @@ def solution(board):
         if b1 == [n-1,n-1] or b2 == [n-1,n-1]:
             answer = cnt
             break
-        moves = turn([b1,b2])
+        moves = []
         for i in range(4):
             nb1 = [b1[0]+dx[i],b1[1]+dy[i]]
             nb2 = [b2[0]+dx[i],b2[1]+dy[i]]
             moves.append([nb1,nb2])
+        moves.extend(turn([b1,b2]))
         for m in moves:
             b1x,b1y= m[0]
             b2x,b2y=m[1]
-            if 0<=b1x<=n-1 and 0<=b1y<=n-1 and 0<=b2x<=n-1 and 0<=b2y<=n-1 and board[b1x][b1y] == 0 and board[b2x][b2y] == 0:
+            if 0<=b1x<=n-1 and 0<=b1y<=n-1 and 0<=b2x<=n-1 and 0<=b2y<=n-1 and board[b1x][b1y] == 0 and board[b2x][b2y] == 0 and not ([[b1x,b1y],[b2x,b2y]] in moved or [[b2x,b2y],[b1x,b1y]] in moved):
                 que.append([[b1x,b1y],[b2x,b2y],cnt+1])
+                moved.append([[b1x,b1y],[b2x,b2y]])
     
     return answer
 
 
-
-print(solution([[0, 0, 0, 1, 1], [0, 0, 0, 1, 0], [0, 1, 0, 1, 1], [1, 1, 0, 0, 1], [0, 0, 0, 0, 0]]))
+# 답지 코드
+# 집합 자료형으로 처리하면 ((1,1),(1,2))와 (1,2),(1,1)을 같은것으로 처리한다.
