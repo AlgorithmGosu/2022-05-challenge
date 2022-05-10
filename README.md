@@ -29,11 +29,6 @@ https://github.com/ndb796/python-for-coding-test
            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dbwp031" />
         </td>
         <td align="center" width="200px">
-            <a href="https://github.com/haram1117"><img height="150px" width="150px" src="https://avatars.githubusercontent.com/u/63827499?v=4"/></a>
-            <br />
-            <a href="https://github.com/haram1117">박하람</a>
-        </td>
-        <td align="center" width="200px">
             <a href="https://github.com/josushell"><img height="150px" width="150px" src="https://avatars.githubusercontent.com/u/63590121?v=4"/></a>
             <br />
             <a href="https://github.com/josushell">조수연</a>
@@ -45,10 +40,7 @@ https://github.com/ndb796/python-for-coding-test
 
 
 ## 🔐 문제
-* [백준](https://www.acmicpc.net/)
-* leetcode 5월 challenge 나랑 같이 할 사람은 하던가.. 뱃지 줌ㅋ
-* 교재 문제 풀이
-
+* [solved.ac Class](https://solved.ac/class)
 
 ## 🗂 디렉토리 및 파일
 `/chapter 이름/문제 이름_본인이름.file`
