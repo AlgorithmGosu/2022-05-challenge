@@ -3,20 +3,11 @@
 
 ## ✏️ 규칙
 1. 이유제 python
-2. 박하람 조수연 c++
-3. 2주 동안 교재 진도 다 나가고 + 남은 2주는 백준 풀어서 티어 골드로 올리기
-4. 못하면 하루에 벌금 1000원이야. 5월 말에 정산해서 회식 ㄱ
-
-## 📚 교재
-"이것이 취업을 위한 코딩 테스트다 with Python"
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/63590121/164978982-262a27bb-0b80-4a60-acb6-e877da1743fb.PNG" width="400" height="900">
-  </p>
+2. 조수연 c++
 
 ## 💻 참고하면 좋을 repo
 https://github.com/tony9402/baekjoon<br>
-https://github.com/ndb796/python-for-coding-test
+
 
 ## 👨‍💻 팀원
 <table>
