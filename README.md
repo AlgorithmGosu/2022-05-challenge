@@ -13,7 +13,7 @@ https://github.com/tony9402/baekjoon<br>
 
 ![유제's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dbwp031)
 
-![수연's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=yoyo07030)
+![수연's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=yoy07030)
 <table>
 <tr height="200px">
         <td align="center" width="200px">
