@@ -10,6 +10,9 @@ https://github.com/tony9402/baekjoon<br>
 
 
 ## 👨‍💻 팀원
+
+![유제's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dbwp031)
+![수연's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=yoyo07030)
 <table>
 <tr height="200px">
         <td align="center" width="200px">
@@ -18,7 +21,6 @@ https://github.com/tony9402/baekjoon<br>
             <a href="https://github.com/dbwp031">이유제</a>
 			<br />
            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dbwp031" />
-	![유제's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dbwp031)
 
         </td>
         <td align="center" width="200px">
@@ -27,7 +29,6 @@ https://github.com/tony9402/baekjoon<br>
             <a href="https://github.com/josushell">조수연</a>
 			<br />
            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yoy07030" />
-	![수연's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=yoyo07030)
 
         </td>
     </tr>
