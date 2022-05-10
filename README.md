@@ -34,8 +34,7 @@ https://github.com/tony9402/baekjoon<br>
 * [solved.ac Class](https://solved.ac/class)
 
 ## 🗂 디렉토리 및 파일
-`/chapter 이름/문제 이름_본인이름.file`
-* e.g. /chapter3_Greedy/1_josueyeon.cpp
-
+`/class level/문제 이름_본인이름.file`
+* e.g. /class4/1149_yuje.py
 ## 📝 코드리뷰
 * Pull requests 활용.
